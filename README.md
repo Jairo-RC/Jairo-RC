@@ -6,8 +6,8 @@
 <h3 align="center">Blue Team | Red Team | Network Security | Ethical Hacking | Security Automation</h3>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jairo-rodriguez-castro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rodriguezcjairo01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="HackTheBox" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Costa_Rica_🇨🇷-101010?style=for-the-badge" alt="Costa Rica" /></a>
 </p>
@@ -135,11 +135,11 @@ I have engineered and deployed a fully functional, highly segmented **Home Secur
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jairo-RC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jairo's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Jairo-RC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jairo's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jairo-RC&theme=tokyonight&hide_border=true&background=0D1117" alt="Jairo's GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairo-RC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jairo-RC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
 <!-- FOOTER START -->
